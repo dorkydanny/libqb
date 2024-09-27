@@ -7,16 +7,13 @@
     3. [Linux NixOS](#Linux NixOS)
 
 2.  [Usage](#Usage)
-3.  [Additional Info](#Additional_Info)
 
 # Installation <a name="Installation"></a>
 Download the appropriate package for your operating system. Check the Releases page.
 
 <a name="Linux"></a>
 ## Linux NixOS
-Compile QB64 with ```./setup_lnx.sh```.
-
-Dependencies should be automatically installed. Required packages include OpenGL, ALSA and the GNU C++ Compiler.
+Add the default.nix files and package it into a binary
 
 <a name="Usage"></a>
 # Usage
